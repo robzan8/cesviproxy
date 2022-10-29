@@ -1,0 +1,1 @@
+PORT=5000 AUTH="Bearer whatever" go run server/main.go
